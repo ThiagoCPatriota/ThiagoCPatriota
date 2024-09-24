@@ -1,8 +1,6 @@
-<img src = "banner.gif" width = "325px" align = "right">
-
 # Olá, Thiago aqui!
 ### Futuro Desenvolvedor.
-- 👩‍💻 Estudante de Eng. da Computação.
+- 👩‍💻 Estudante de Engenharia de Software.
 - 👩‍💻 Fã de Jogos.
 - 👩‍💻 Aprendendo algo sobre back-end.
 
