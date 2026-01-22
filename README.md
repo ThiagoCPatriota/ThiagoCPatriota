@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Thiago+Patriota!;Full+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+Thiago+Patriota!;Full+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,18 +12,16 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou o **Thiago**, um entusiasta de tecnologia focado em resolver problemas reais através do código. Atualmente estou expandindo meus conhecimentos em desenvolvimento Full Stack.
+Olá! Sou o **Thiago**, focado em resolver problemas reais com código. Atualmente estou unindo o melhor dos dois mundos: a lógica do Back-end com a interatividade do Front-end.
 
-- 🎓 Cursando **Engenharia de Software**.
-- 🚀 Focado em unir o **Front-end** e **Back-end**.
-- 🎮 Apaixonado por jogos e tecnologia.
-- 💡 Sempre aprendendo: Python, C++ e JavaScript.
+* 🎓 Cursando **Engenharia de Software**.
+* 🚀 Desenvolvendo soluções **Full Stack**.
+* 🎮 Apaixonado por **Jogos** e Tecnologia.
+* 💡 Stack Principal: **Python, C++ e JavaScript**.
 
 ---
 
 ### 🛠️ Minha Stack
-
-As tecnologias que uso para construir projetos:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -40,7 +38,7 @@ As tecnologias que uso para construir projetos:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/ThiagoCPatriota">
@@ -60,9 +58,9 @@ As tecnologias que uso para construir projetos:
 
 <div align="center">
   <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
