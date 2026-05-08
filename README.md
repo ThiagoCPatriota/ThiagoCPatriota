@@ -16,7 +16,7 @@
 
 # `Thiago Patriota // Developer Profile`
 
-<sub>Student of Software Engineering • Fullstack Web Focus • Exploring Game Development</sub>
+<sub>Student of Software Engineering</sub>
 
 </div>
 
