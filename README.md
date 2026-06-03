@@ -7,14 +7,16 @@
 <div align="center">
 
 <h2>
-  <code>Desenvolvedor FullStack</code>
+  <code>FullStack Web Developer em formação</code>
 </h2>
 
-<br><br>
+<p>
+  Construindo interfaces, sistemas e experiências digitais com foco em Web, tecnologia e criatividade.
+</p>
 
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-020617?style=for-the-badge&labelColor=0B1120&color=1E3A8A" />
-<img src="https://img.shields.io/badge/Focus-Fullstack%20Web-020617?style=for-the-badge&labelColor=0B1120&color=1D4ED8" />
-<img src="https://img.shields.io/badge/Exploring-Game%20Dev-020617?style=for-the-badge&labelColor=0B1120&color=2563EB" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-020617?style=for-the-badge&labelColor=0B1120&color=1D4ED8" />
+<img src="https://img.shields.io/badge/Focus-FullStack%20Web-020617?style=for-the-badge&labelColor=0B1120&color=2563EB" />
+<img src="https://img.shields.io/badge/Exploring-Game%20Dev-020617?style=for-the-badge&labelColor=0B1120&color=3B82F6" />
 
 </div>
 
@@ -24,14 +26,13 @@
 
 <br>
 
-## 💻 Sobre Mim
+## 🧭 Sobre mim
 
-Sou estudante de **Engenharia de Software** no IFPE, focado no desenvolvimento de sistemas, interfaces web e projetos interativos.
+Sou estudante de **Engenharia de Software** no IFPE, desenvolvendo uma base sólida em programação, estruturação de sistemas e criação de interfaces web modernas.
 
-- 🎓 Graduando em **Engenharia de Software** pelo IFPE.
-- 🌐 Focado no ecossistema **Web Full-Stack**, construindo desde interfaces estruturadas até bancos de dados robustos.
-- 👾 Aprendendo e experimentando com **Game Dev** e design de mecânicas de RPG.
-- 🚀 Atualmente desenvolvendo projetos interativos e lapidando meus conhecimentos em estruturação de sistemas.
+Atualmente estou focado em evoluir como desenvolvedor **FullStack**, estudando tecnologias de frontend, backend, banco de dados e ferramentas que fazem parte do ciclo completo de desenvolvimento de software.
+
+Também venho explorando **Game Dev**, criação de mecânicas, sistemas interativos e experiências digitais com uma pegada mais criativa.
 
 <br>
 
@@ -41,35 +42,92 @@ Sou estudante de **Engenharia de Software** no IFPE, focado no desenvolvimento d
 
 <div align="center">
 
-## 🧰 Tech Stack
-
-<br>
-
-### Frontend & Design
-
-<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=93C5FD" />
-<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3B82F6" />
-
-<br><br>
-
-### Backend & Banco de Dados
-
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=93C5FD" />
-<img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=3B82F6" />
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=93C5FD" />
-
-<br><br>
-
-### Ferramentas & Game Dev
-
-<img src="https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=93C5FD" />
-<img src="https://img.shields.io/badge/Trello-020617?style=for-the-badge&logo=trello&logoColor=3B82F6" />
+## 🛰️ Stack em órbita
 
 </div>
 
 <br>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Frontend</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+      <br><br>
+      <sub>
+        HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js
+      </sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>Backend</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet&theme=dark" />
+      <br><br>
+      <sub>
+        Node.js • Python • Java • C# • .NET
+      </sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>Dados & Ferramentas</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,figma&theme=dark" />
+      <br><br>
+      <sub>
+        PostgreSQL • Git • GitHub • VS Code • Figma
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub em movimento
+
+<br>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCPatriota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=3B82F6&text_color=E5E7EB" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameThiagoCPatriota&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoCPatriota&bg_color=020617&color=E5E7EB&line=3B82F6&point=60A5FA&area=true&hide_border=true" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🌌 Contato
+
+<br>
+
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=60A5FA" />
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=3B82F6" />
+</a>
+
+<a href="https://github.com/SEU_USUARIO_AQUI">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=93C5FD" />
+</a>
+
+<br><br>
+
+<code>Code. Build. Learn. Repeat.</code>
+
+</div>
