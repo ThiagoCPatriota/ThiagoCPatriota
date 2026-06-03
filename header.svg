@@ -1,0 +1,234 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020617"></stop>
+      <stop offset="45%" stop-color="#07111F"></stop>
+      <stop offset="100%" stop-color="#0B1B35"></stop>
+    </linearGradient>
+
+    <linearGradient id="blueLine" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0"></stop>
+      <stop offset="45%" stop-color="#38BDF8" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"></stop>
+    </linearGradient>
+
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.8"></stop>
+      <stop offset="45%" stop-color="#1D4ED8" stop-opacity="0.22"></stop>
+      <stop offset="100%" stop-color="#020617" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        font-size: 74px;
+        font-weight: 800;
+        letter-spacing: 6px;
+      }
+
+      .subtitle {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        font-size: 19px;
+        font-weight: 500;
+        letter-spacing: 2px;
+      }
+
+      .tiny {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        font-size: 13px;
+        letter-spacing: 1.4px;
+      }
+
+      .grid {
+        animation: gridDrift 9s linear infinite;
+      }
+
+      .scan {
+        animation: scanMove 4.8s ease-in-out infinite;
+      }
+
+      .pulse {
+        animation: pulse 3s ease-in-out infinite;
+      }
+
+      .orbit {
+        transform-origin: 600px 210px;
+        animation: orbit 12s linear infinite;
+      }
+
+      .orbitReverse {
+        transform-origin: 600px 210px;
+        animation: orbitReverse 17s linear infinite;
+      }
+
+      .glitchA {
+        animation: glitchA 3.2s infinite;
+      }
+
+      .glitchB {
+        animation: glitchB 2.7s infinite;
+      }
+
+      .floatA {
+        animation: floatA 6s ease-in-out infinite;
+      }
+
+      .floatB {
+        animation: floatB 7s ease-in-out infinite;
+      }
+
+      .blink {
+        animation: blink 1.2s steps(2, start) infinite;
+      }
+
+      @keyframes gridDrift {
+        from { transform: translateY(0px); }
+        to { transform: translateY(42px); }
+      }
+
+      @keyframes scanMove {
+        0%, 100% { transform: translateY(-120px); opacity: 0; }
+        18% { opacity: 0.65; }
+        50% { transform: translateY(410px); opacity: 0.2; }
+        80% { opacity: 0; }
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 0.45; transform: scale(1); }
+        50% { opacity: 0.9; transform: scale(1.03); }
+      }
+
+      @keyframes orbit {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+
+      @keyframes orbitReverse {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+
+      @keyframes glitchA {
+        0%, 88%, 100% { transform: translate(0, 0); opacity: 0; }
+        89% { transform: translate(-5px, -2px); opacity: 0.55; }
+        91% { transform: translate(4px, 2px); opacity: 0.25; }
+        93% { transform: translate(-2px, 1px); opacity: 0.45; }
+      }
+
+      @keyframes glitchB {
+        0%, 84%, 100% { transform: translate(0, 0); opacity: 0; }
+        85% { transform: translate(5px, 1px); opacity: 0.35; }
+        87% { transform: translate(-4px, -1px); opacity: 0.5; }
+        90% { transform: translate(2px, 2px); opacity: 0.2; }
+      }
+
+      @keyframes floatA {
+        0%, 100% { transform: translateY(0px); opacity: 0.5; }
+        50% { transform: translateY(-14px); opacity: 1; }
+      }
+
+      @keyframes floatB {
+        0%, 100% { transform: translateY(0px); opacity: 0.35; }
+        50% { transform: translateY(18px); opacity: 0.85; }
+      }
+
+      @keyframes blink {
+        0%, 45% { opacity: 1; }
+        46%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="34" fill="url(#bg)"></rect>
+
+  <rect x="22" y="22" width="1156" height="376" rx="28" stroke="#1E3A8A" stroke-opacity="0.55"></rect>
+  <rect x="38" y="38" width="1124" height="344" rx="22" stroke="#0EA5E9" stroke-opacity="0.14"></rect>
+
+  <g opacity="0.16" class="grid">
+    <path d="M0 70H1200 M0 112H1200 M0 154H1200 M0 196H1200 M0 238H1200 M0 280H1200 M0 322H1200 M0 364H1200" stroke="#60A5FA"></path>
+    <path d="M80 0V420 M160 0V420 M240 0V420 M320 0V420 M400 0V420 M480 0V420 M560 0V420 M640 0V420 M720 0V420 M800 0V420 M880 0V420 M960 0V420 M1040 0V420 M1120 0V420" stroke="#60A5FA"></path>
+  </g>
+
+  <ellipse cx="600" cy="210" rx="365" ry="120" fill="url(#coreGlow)" class="pulse"></ellipse>
+
+  <g filter="url(#softGlow)">
+    <path d="M140 318 C285 245, 376 338, 515 262 S780 133, 1042 193" stroke="url(#blueLine)" stroke-width="2.2" opacity="0.8"></path>
+    <path d="M180 112 C340 185, 440 82, 580 148 S800 265, 1018 118" stroke="url(#blueLine)" stroke-width="1.5" opacity="0.45"></path>
+  </g>
+
+  <g class="orbit" opacity="0.9">
+    <circle cx="600" cy="84" r="4" fill="#93C5FD"></circle>
+    <circle cx="600" cy="336" r="3" fill="#38BDF8"></circle>
+  </g>
+
+  <g class="orbitReverse" opacity="0.65">
+    <circle cx="358" cy="210" r="3" fill="#60A5FA"></circle>
+    <circle cx="842" cy="210" r="5" fill="#1D4ED8"></circle>
+  </g>
+
+  <g class="floatA">
+    <circle cx="116" cy="91" r="3" fill="#60A5FA"></circle>
+    <circle cx="238" cy="335" r="2.5" fill="#93C5FD"></circle>
+    <circle cx="1068" cy="104" r="3" fill="#3B82F6"></circle>
+  </g>
+
+  <g class="floatB">
+    <circle cx="101" cy="284" r="2.5" fill="#1D4ED8"></circle>
+    <circle cx="986" cy="329" r="3" fill="#60A5FA"></circle>
+    <circle cx="1072" cy="253" r="2" fill="#93C5FD"></circle>
+  </g>
+
+  <rect class="scan" x="40" y="0" width="1120" height="90" fill="url(#blueLine)" opacity="0.25"></rect>
+
+  <text x="600" y="190" text-anchor="middle" class="title glitchA" fill="#2563EB" opacity="0">
+    THIAGO PATRIOTA
+  </text>
+
+  <text x="600" y="190" text-anchor="middle" class="title glitchB" fill="#38BDF8" opacity="0">
+    THIAGO PATRIOTA
+  </text>
+
+  <text x="600" y="190" text-anchor="middle" class="title" fill="#E0F2FE" filter="url(#textGlow)">
+    THIAGO PATRIOTA
+  </text>
+
+  <text x="600" y="234" text-anchor="middle" class="subtitle" fill="#93C5FD">
+    SOFTWARE ENGINEERING STUDENT · FULLSTACK WEB · LEARNING GAME DEV
+  </text>
+
+  <g transform="translate(365 280)">
+    <rect x="0" y="0" width="470" height="42" rx="12" fill="#020617" stroke="#1E40AF" stroke-opacity="0.8"></rect>
+    <text x="22" y="27" class="tiny" fill="#60A5FA">$ init interactive_projects</text>
+    <rect x="280" y="13" width="10" height="18" fill="#93C5FD" class="blink"></rect>
+  </g>
+
+  <g opacity="0.85">
+    <text x="70" y="68" class="tiny" fill="#3B82F6">profile.status</text>
+    <text x="70" y="88" class="tiny" fill="#E0F2FE">learning_and_building</text>
+
+    <text x="945" y="332" class="tiny" fill="#3B82F6">current.quest</text>
+    <text x="945" y="352" class="tiny" fill="#E0F2FE">web_systems + rpg_logic</text>
+  </g>
+
+  <path d="M52 360 H220" stroke="#2563EB" stroke-width="2" stroke-linecap="round"></path>
+  <path d="M980 60 H1148" stroke="#2563EB" stroke-width="2" stroke-linecap="round"></path>
+
+  <circle cx="52" cy="360" r="4" fill="#60A5FA"></circle>
+  <circle cx="1148" cy="60" r="4" fill="#60A5FA"></circle>
+</svg>
