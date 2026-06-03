@@ -50,17 +50,21 @@ Sou estudante de **Engenharia de Software** no IFPE, focado no desenvolvimento d
 <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=3B82F6" />
 <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3B82F6" />
 
 <br><br>
 
 ### Backend & Banco de Dados
 
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=3B82F6" />
 <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=93C5FD" />
 
 <br><br>
 
-### Game Dev & Organização
+### Ferramentas & Game Dev
 
 <img src="https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=93C5FD" />
@@ -69,30 +73,3 @@ Sou estudante de **Engenharia de Software** no IFPE, focado no desenvolvimento d
 </div>
 
 <br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🎯 Current Quest
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Fullstack Web</h3>
-      <p>Interfaces, lógica, banco de dados e estruturação de sistemas.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Game Dev</h3>
-      <p>Mecânicas, RPG, interatividade e experimentação criativa.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Projetos Interativos</h3>
-      <p>Construindo, testando, melhorando e evoluindo com código.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
