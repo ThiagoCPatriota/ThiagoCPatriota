@@ -1,47 +1,102 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,25:0B1026,50:0EA5E9,75:7C3AED,100:111827&text=THIAGO%20PATRIOTA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Fullstack%20Web%20%7C%20Learning%20Game%20Dev&descAlignY=58&descAlign=50"/>
-
+  <img src="header.svg" width="100%" alt="Thiago Patriota animated header" />
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=%E2%96%B6+BOOTING+THIAGO.exe;%E2%96%B6+Software+Engineering+Student;%E2%96%B6+Fullstack+Web+Developer+in+progress;%E2%96%B6+Learning+Game+Development;%E2%96%B6+Building+cool+things+with+code" />
+<h2>
+  <code>Thiago Patriota // Developer Profile</code>
+</h2>
+
+<sub>
+  Student of Software Engineering
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-020617?style=for-the-badge&labelColor=0B1120&color=1E3A8A" />
+<img src="https://img.shields.io/badge/Focus-Fullstack%20Web-020617?style=for-the-badge&labelColor=0B1120&color=1D4ED8" />
+<img src="https://img.shields.io/badge/Exploring-Game%20Dev-020617?style=for-the-badge&labelColor=0B1120&color=2563EB" />
 
 </div>
+
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-# `Thiago Patriota // Developer Profile`
+## 💻 Sobre Mim
 
-<sub>Student of Software Engineering</sub>
-
-</div>
-
-### 💻 Sobre Mim
+Sou estudante de **Engenharia de Software** no IFPE, focado no desenvolvimento de sistemas, interfaces web e projetos interativos.
 
 - 🎓 Graduando em **Engenharia de Software** pelo IFPE.
 - 🌐 Focado no ecossistema **Web Full-Stack**, construindo desde interfaces estruturadas até bancos de dados robustos.
-- 👾 Aprendendo e experimentando com **Game Dev**, design de mecânicas de RPG.
-- 🚀 Atualmente desenvolvendo projetos interativos e lapidando meus conhecimentos e estruturação de sistemas.
+- 👾 Aprendendo e experimentando com **Game Dev** e design de mecânicas de RPG.
+- 🚀 Atualmente desenvolvendo projetos interativos e lapidando meus conhecimentos em estruturação de sistemas.
+
+<br>
 
 ---
 
-<div align="center">
-  
-  **Frontend & Design** <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br>
 
-  **Backend & Banco de Dados** <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  **Game Dev & Organização** <br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<div align="center">
+
+## 🧰 Tech Stack
+
+<br>
+
+### Frontend & Design
+
+<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=93C5FD" />
+
+<br><br>
+
+### Backend & Banco de Dados
+
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=3B82F6" />
+
+<br><br>
+
+### Game Dev & Organização
+
+<img src="https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Trello-020617?style=for-the-badge&logo=trello&logoColor=3B82F6" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🎯 Current Quest
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Fullstack Web</h3>
+      <p>Interfaces, lógica, banco de dados e estruturação de sistemas.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Game Dev</h3>
+      <p>Mecânicas, RPG, interatividade e experimentação criativa.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Projetos Interativos</h3>
+      <p>Construindo, testando, melhorando e evoluindo com código.</p>
+    </td>
+  </tr>
+</table>
+
 </div>
