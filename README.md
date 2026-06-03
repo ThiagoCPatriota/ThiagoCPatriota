@@ -7,12 +7,8 @@
 <div align="center">
 
 <h2>
-  <code>Thiago Patriota // Developer Profile</code>
+  <code>Desenvolvedor FullStack</code>
 </h2>
-
-<sub>
-  Student of Software Engineering
-</sub>
 
 <br><br>
 
