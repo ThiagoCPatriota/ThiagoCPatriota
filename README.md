@@ -92,9 +92,6 @@ Também venho explorando **Game Dev**, criação de mecânicas, sistemas interat
 
 <br>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCPatriota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=3B82F6&text_color=E5E7EB" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameThiagoCPatriota&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB" />
 
 <br><br>
 
