@@ -82,8 +82,6 @@ Também venho explorando **Game Dev**, criação de mecânicas, sistemas interat
 
 <br>
 
----
-
 <br>
 
 <div align="center">
@@ -91,9 +89,6 @@ Também venho explorando **Game Dev**, criação de mecânicas, sistemas interat
 ## 📊 GitHub em movimento
 
 <br>
-
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoCPatriota&bg_color=020617&color=E5E7EB&line=3B82F6&point=60A5FA&area=true&hide_border=true" />
 
