@@ -22,10 +22,6 @@
 
 <br>
 
----
-
-<br>
-
 ## 🧭 Sobre mim
 
 Sou estudante de **Engenharia de Software** no IFPE, desenvolvendo uma base sólida em programação, estruturação de sistemas e criação de interfaces web modernas.
@@ -34,9 +30,6 @@ Atualmente estou focado em evoluir como desenvolvedor **FullStack**, estudando t
 
 Também venho explorando **Game Dev**, criação de mecânicas, sistemas interativos e experiências digitais com uma pegada mais criativa.
 
-<br>
-
----
 
 <br>
 
@@ -94,9 +87,6 @@ Também venho explorando **Game Dev**, criação de mecânicas, sistemas interat
 
 </div>
 
-<br>
-
----
 
 <br>
 
