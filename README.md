@@ -91,19 +91,17 @@ Também venho explorando Inteligências Artificiais, como a criação de Agents 
 
 <div align="center">
 
-## 🌌 Contato
+## Fale por aqui!
 
-<br>
-
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:thiagosilvapatriota@gmail.com">
   <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=60A5FA" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/thiago-patriota-a6841b271">
   <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=3B82F6" />
 </a>
 
-<a href="https://github.com/SEU_USUARIO_AQUI">
+<a href="https://github.com/ThiagoCPatriota">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=93C5FD" />
 </a>
 
