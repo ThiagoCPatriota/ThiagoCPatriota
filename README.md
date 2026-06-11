@@ -28,14 +28,13 @@ Sou estudante de **Engenharia de Software** no IFPE, desenvolvendo uma base sól
 
 Atualmente estou focado em evoluir como desenvolvedor **FullStack**, estudando tecnologias de frontend, backend, banco de dados e ferramentas que fazem parte do ciclo completo de desenvolvimento de software.
 
-Também venho explorando **Game Dev**, criação de mecânicas, sistemas interativos e experiências digitais com uma pegada mais criativa.
-
+Também venho explorando Inteligencias Artificiais, como a criação de Agents e Skills para otimização e Dev. de Softwares.
 
 <br>
 
 <div align="center">
 
-## 🛰️ Stack em órbita
+## Minhas Stacks incríveis :D
 
 </div>
 
@@ -46,10 +45,10 @@ Também venho explorando **Game Dev**, criação de mecânicas, sistemas interat
     <td align="center" width="33%">
       <h3>Frontend</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
       <br><br>
       <sub>
-        HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js
+        HTML5 • CSS3 • JavaScript • React • Next.js
       </sub>
     </td>
     <td align="center" width="33%">
