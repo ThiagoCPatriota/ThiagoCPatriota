@@ -28,7 +28,7 @@ Sou estudante de **Engenharia de Software** no IFPE, desenvolvendo uma base sól
 
 Atualmente estou focado em evoluir como desenvolvedor **FullStack**, estudando tecnologias de frontend, backend, banco de dados e ferramentas que fazem parte do ciclo completo de desenvolvimento de software.
 
-Também venho explorando Inteligencias Artificiais, como a criação de Agents e Skills para otimização e Dev. de Softwares.
+Também venho explorando Inteligências Artificiais, como a criação de Agents e Skills para otimização e Dev. de Softwares.
 
 <br>
 
@@ -63,10 +63,10 @@ Também venho explorando Inteligencias Artificiais, como a criação de Agents e
     <td align="center" width="33%">
       <h3>Dados & Ferramentas</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,figma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark" />
       <br><br>
       <sub>
-        PostgreSQL • Git • GitHub • VS Code • Figma
+        PostgreSQL • Git • GitHub • VS Code
       </sub>
     </td>
   </tr>
@@ -78,7 +78,7 @@ Também venho explorando Inteligencias Artificiais, como a criação de Agents e
 
 <div align="center">
 
-## 📊 GitHub em movimento
+## Meu Github :O
 
 <br>
 
